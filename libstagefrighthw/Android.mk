@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-ifeq ($(TARGET_DEVICE),ebdeavoru)
+ifeq ($(TARGET_DEVICE),endeavoru)
 
 LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
