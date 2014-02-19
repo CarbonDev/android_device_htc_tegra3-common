@@ -106,3 +106,4 @@ BOARD_SEPOLICY_UNION := \
     surfaceflinger.te \
     system.te \
     zygote.te
+
